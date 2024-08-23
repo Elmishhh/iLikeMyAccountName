@@ -14,7 +14,7 @@ namespace ILMSN
         public const string Version = "1.0.0"; // Version of the Mod.  (MUST BE SET)
         public const string DownloadLink = null; // Download Link for the Mod.  (Set as null if none)
     }
-    
+
     public class ILMSNClass : MelonMod
     {
         private static string username = "";
